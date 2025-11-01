@@ -25,6 +25,3 @@ This uses `Allure.NUnit`. After running tests, generate the report with the Allu
 allure generate --clean
 allure open
 ```
-(Adapters write results to `bin/.../allure-results` by default.)
-
-> **NOTE:** Update CSS selectors in `Pages/*.cs` to match the current eclinicalsol.com careers portal before running.
