@@ -1,0 +1,10 @@
+{
+  "allure": {
+    "directory": "allure-results",
+    "cleanup": true,
+    "links": [
+      "issue:%s:https://jira.example.com/browse/%s",
+      "tms:%s:https://testrail.example.com/tests/%s"
+    ]
+  }
+}
